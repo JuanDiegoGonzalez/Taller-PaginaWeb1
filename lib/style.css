@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+#principal {
+  width: 96%;
+  background-color: #f0f8ff;
+  margin-top: 10px;
+  margin: 0 auto;  
+  border-color: #1E90FF;
+  border-style: solid;
+}
+
+div {
+  margin: 10px;
+}
